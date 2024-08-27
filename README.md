@@ -5,7 +5,7 @@ I have a strong passion for programming and am currently learning C language.
 My skills include HTML, CSS, JavaScript, React.js, Express.js, and Node.js. I'm also experienced with databases like Firebase and MongoDB.
 Programming is not just a career path for me; it's a true passion. 😊
 
-![Programming Class](https://github.com/username/repository_name/blob/main/path_to_image/your_image.png)
+![Programming Class]([https://github.com/username/repository_name/blob/main/path_to_image/your_image.png](https://github.com/MaidaSyed/24k-0918/blob/main/OIG4.hDIgh.jpg?raw=true))
 
 
 
