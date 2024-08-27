@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/799f3a41-68c0-4208-9db4-843d8df39f5b)# 24k-0918
+# 24k-0918
 fast task 1
 Hi, I'm Maida Syed, a student at FAST University pursuing a BS in Computer Science.
 I have a strong passion for programming and am currently learning C language.
