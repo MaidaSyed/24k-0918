@@ -5,5 +5,7 @@ I have a strong passion for programming and am currently learning C language.
 My skills include HTML, CSS, JavaScript, React.js, Express.js, and Node.js. I'm also experienced with databases like Firebase and MongoDB.
 Programming is not just a career path for me; it's a true passion. 😊
 
-[![Uploading image.png…]()](https://th.bing.com/th/id/OIG4.hDIgh.DuBL0OlmVNqIM.?pid=ImgGn)
+![Programming Class](https://github.com/username/repository_name/blob/main/path_to_image/your_image.png)
+
+
 
