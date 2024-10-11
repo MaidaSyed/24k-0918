@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cv {
+    display: flex;
+    width: 40%;
+    border: 1px solid black;
+}
+.div1{
+    background-color: navy;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+.div1 .image {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+.details p {
+    color: white;
+}
+
+li {
+    color: white;
+}
+.div2 {
+    padding: 20px;
+    background-color: whitesmoke;
+}
+table {
+    border: 1px solid black;
+    padding: 5px;
+}
+th,td {
+    border: 1px solid black;
+    padding: 10px;
+}
+.skills p {
+    margin: 5px;
+    margin-top: 15px;
+}
+.poll1,
+.poll2 {
+    border: 1px solid black;
+    height: 15px;
+    width: 90%;
+    border-radius: 50px;
+    overflow: hidden;
+}
+.poll1 div {
+    background-color: navy;
+    height: 100%;
+    width: 80%;
+}
+.poll2 div {
+    background-color: navy;
+    height: 100%;
+    width: 70%;
+}
